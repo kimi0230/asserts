@@ -980,11 +980,11 @@
 								"$ref": "AAAAAAF+NFdyw5ZY7QA="
 							},
 							"font": "Arial;13;0",
-							"left": 216,
-							"top": 264,
-							"width": 106.24192810058594,
-							"height": 40,
-							"text": "non-identifing"
+							"left": 40,
+							"top": 256,
+							"width": 297,
+							"height": 97,
+							"text": "non-identifing\n\n是指子表的資料必須不依賴於母表的資料而存在。\n母表的primary key欄位不為子表primary key的一部分"
 						},
 						{
 							"_type": "UMLNoteLinkView",
@@ -1000,7 +1000,7 @@
 								"$ref": "AAAAAAF+NJtsGZn0ea4="
 							},
 							"lineStyle": 1,
-							"points": "383:281;322:282"
+							"points": "383:283;337:288"
 						},
 						{
 							"_type": "UMLNoteView",
